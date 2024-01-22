@@ -302,20 +302,20 @@ body {
 }
 
 .text-section h2 {
-    color: #333; /* 标题颜色 */
-    font-size: 2em; /* 标题大小 */
-    font-weight: bold; /* 标题粗细 */
-    margin-bottom: 0.5em; /* 标题与文本的间距 */
+    color: #333;
+    font-size: 2em; 
+    font-weight: bold; 
+    margin-bottom: 0.5em; 
 }
 
 .text-section p {
-    color: #333; /* 段落文本颜色 */
-    font-size: 2em; /* 段落文本大小 */
-    margin-bottom: 2em; /* 段落之间的间距 */
+    color: #333; 
+    font-size: 2em; 
+    margin-bottom: 2em;
 }
 
 .image-section img {
-    max-width: 200px; /* 根据实际图片大小调整 */
-    height: auto; /* 保持图片宽高比 */
+    max-width: 200px; 
+    height: auto; 
 }
 
